@@ -1,6 +1,6 @@
 app-id: io.github.igorlogius.scr2ppm
 runtime: org.freedesktop.Platform
-runtime-version: '23.08'
+runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
 command: scr2ppm
 rename-icon: scr2ppm
@@ -23,4 +23,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/igorlogius/scr2ppm.git
-        commit: 6105c25302e579d118a581740bc416ed829b8e46
+        commit: 248191935172da42bfd9cc8808545314cd2de181
