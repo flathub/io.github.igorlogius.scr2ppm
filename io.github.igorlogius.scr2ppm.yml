@@ -62,5 +62,6 @@ modules:
       - install -D scr2ppm.metainfo.xml /app/share/metainfo/scr2ppm.metainfo.xml
       - install -D scr2ppm.svg /app/share/icons/hicolor/scalable/apps/scr2ppm.svg
     sources:
-      - type: dir
+      - type: git
+        url: https://github.com/igorlogius/scr2ppm.git
         commit: 0ce3c444e6ef355652f472314ce10774cc0da581
