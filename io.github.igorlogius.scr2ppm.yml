@@ -10,7 +10,7 @@ finish-args:
   - --socket=x11
   - --share=ipc
   - --device=dri
-  - --filesystem=~/Screenshots:create
+  - --filesystem=xdg-pictures:create
 
 modules:
   - name: glew
@@ -62,4 +62,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/igorlogius/scr2ppm.git
-        commit: 69d49944b9f6a806a5e84253c5399dcbc639403b
+        commit: c4768e04080b1d3ec77beb5257754bb96ef74327
