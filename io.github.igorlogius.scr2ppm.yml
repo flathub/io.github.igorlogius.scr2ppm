@@ -68,4 +68,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/igorlogius/scr2ppm.git
-        commit: ef25130d295c0301509c47b4f964317a3979df88
+        commit: 8d99e7aa792d49024e103179d37855cab7726592
